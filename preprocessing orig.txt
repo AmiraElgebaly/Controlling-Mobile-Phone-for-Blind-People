@@ -1,0 +1,110 @@
+# save_data_to_array(path=DATA_PATH1, ext='.npy1')
+# save_data_to_array(path=DATA_PATH2, ext='.npy2')
+# save_data_to_array(path=DATA_PATH3, ext='.npy3')
+
+X_train1, X_test1, y_train1, y_test1 = get_train_test(path=DATA_PATH1, ext='.npy1.npy')
+X_train2, X_test2, y_train2, y_test2 = get_train_test(path=DATA_PATH2, ext='.npy2.npy')
+X_train3, X_test3, y_train3, y_test3 = get_train_test(path=DATA_PATH3, ext='.npy3.npy')
+
+########################################################################
+# Answers
+
+X_train1 = X_train1.reshape(X_train1.shape[0], 52, 22)
+X_test1 = X_test1.reshape(X_test1.shape[0], 52, 22)
+# X_Test = X_Test.reshape(X_Test.shape[0], 20, 11, 1)
+print("X_train", "y_train_hot")
+y_train_hot1 = to_categorical(y_train1)
+print(X_train1.shape, y_train_hot1.shape)
+
+print("X_test", "y_test_hot")
+y_test_hot1 = to_categorical(y_test1)
+print(X_test1.shape, y_test_hot1.shape)
+
+# print("X_Test", "Y_Test_hot")
+# Y_Test_hot = to_categorical(Y_Test)
+# print(X_Test.shape, Y_Test_hot.shape)
+
+#########################################################################
+# commands
+
+X_train2 = X_train2.reshape(X_train2.shape[0], 52, 22)
+X_test2 = X_test2.reshape(X_test2.shape[0], 52, 22)
+# X_Test = X_Test.reshape(X_Test.shape[0], 20, 11, 1)
+print("X_train", "y_train_hot")
+y_train_hot2 = to_categorical(y_train2)
+print(X_train2.shape, y_train_hot2.shape)
+
+print("X_test", "y_test_hot")
+y_test_hot2 = to_categorical(y_test2)
+print(X_test2.shape, y_test_hot2.shape)
+
+#########################################################################
+# numbers
+
+X_train3 = X_train3.reshape(X_train3.shape[0], 52, 22)
+X_test3 = X_test3.reshape(X_test3.shape[0], 52, 22)
+# X_Test = X_Test.reshape(X_Test.shape[0], 20, 11, 1)
+print("X_train", "y_train_hot")
+y_train_hot3 = to_categorical(y_train3)
+print(X_train3.shape, y_train_hot3.shape)
+
+print("X_test", "y_test_hot")
+y_test_hot3 = to_categorical(y_test3)
+print(X_test3.shape, y_test_hot3.shape)
+
+############################################################################
+
+
+file_name1 = 'test-answers'
+file_name2 = 'test-Commands'
+file_name3 = 'test-numbers'
+file_name4 = 'yes'
+
+print('test answers')
+X_Test1, Y_Test_hot1 = test_data(file_name1)
+print('test commands')
+X_Test2, Y_Test_hot2 = test_data(file_name2)
+print('test numbers')
+X_Test3, Y_Test_hot3 = test_data(file_name3)
+print('test asr')
+X_Test4, Y_Test_hot4 = test_data(file_name4)
+
+#############################################################################################
+
+
+'''#X_train, X_test, y_train, y_test = load_dataset(DATA_PATH)
+print("X_train", "y_train")
+print(X_train, y_train)
+print("X_test", "y_test")
+print(X_test, y_test)'''
+
+# X_Test, Y_Test = get_test()
+# Y_Test = Y_Test.reshape(Y_Test.shape[0], 1)
+# print("X_Test", "Y_Test")
+# print(X_Test.shape, Y_Test.shape)
+# print("**************************************************")
+
+
+# def test_asr(file_name):
+#     listx = []
+#     listy = []
+#     # Getting the MFCC
+#     print("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
+#     for i in range(0, len(os.listdir(file_name))):
+# 
+#         for j in os.listdir(file_name + '/' + str(i)):
+#             sample = wav2mfcc(file_name + '/' + str(i) + "/" + j)  # take full pass
+#             # print(sample.shape)
+#             sample_reshaped = sample.reshape(1, 52, 22)
+#             listx.append(sample_reshaped)  # list of features
+#             listy.append(i)  # list of actual
+# 
+#             # X = np.array(sample_reshaped)
+#             # Y = np.array(i)
+#     X_Test = np.array(listx)
+#     X_Test = X_Test.reshape(X_Test.shape[0], 52, 22)
+#     Y_Test = np.array(listy)
+#     Y_Test_hot = to_categorical(Y_Test)
+#     print("X_Test", "Y_Test_hot")
+#     print(X_Test.shape, Y_Test_hot.shape)
+#     return X_Test, Y_Test_hot

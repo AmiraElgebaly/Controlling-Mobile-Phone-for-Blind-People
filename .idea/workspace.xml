@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9a412fd-5050-4d0d-936c-861c67faf3b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Audio-Classification-using-CNN-MLP-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Audio-Classification-using-CNN-MLP-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Audio-Classification-using-CNN-MLP-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Xq8N2wjdeYKor06xum3uHPF136" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Download_Audio">
+    <configuration name="Command_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio-Classification-using-CNN-MLP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Command_testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Download_Audio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio-Classification-using-CNN-MLP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Download_Audio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Number_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio-Classification-using-CNN-MLP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Number_testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio-Classification-using-CNN-MLP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scenario1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio-Classification-using-CNN-MLP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scenario1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Download_Audio" />
+        <item itemvalue="Python.scenario1" />
+        <item itemvalue="Python.Command_testing" />
+        <item itemvalue="Python.asr" />
+        <item itemvalue="Python.Number_testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9a412fd-5050-4d0d-936c-861c67faf3b5" name="Default Changelist" comment="" />
+      <created>1581762220303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581762220303</updated>
+      <workItem from="1581762226592" duration="1539000" />
+      <workItem from="1581781761411" duration="21675000" />
+      <workItem from="1581967236335" duration="5004000" />
+      <workItem from="1582298174671" duration="643000" />
+      <workItem from="1582307924209" duration="1442000" />
+      <workItem from="1582479899079" duration="1151000" />
+      <workItem from="1582475228162" duration="74000" />
+      <workItem from="1582475461884" duration="74385000" />
+      <workItem from="1582987628859" duration="14838000" />
+      <workItem from="1583090422187" duration="26216000" />
+      <workItem from="1584235849593" duration="9110000" />
+      <workItem from="1584300846559" duration="3613000" />
+      <workItem from="1584355217446" duration="11361000" />
+      <workItem from="1584392958845" duration="3788000" />
+      <workItem from="1584436322471" duration="20468000" />
+      <workItem from="1584964163528" duration="5406000" />
+      <workItem from="1584985070917" duration="1842000" />
+      <workItem from="1585018464837" duration="5156000" />
+      <workItem from="1585311088446" duration="975000" />
+      <workItem from="1586144679638" duration="215000" />
+      <workItem from="1588475352720" duration="10501000" />
+      <workItem from="1589036398930" duration="3651000" />
+      <workItem from="1589206570426" duration="607000" />
+      <workItem from="1589286528741" duration="3259000" />
+      <workItem from="1589289836121" duration="4022000" />
+      <workItem from="1589634637807" duration="3903000" />
+      <workItem from="1590943643381" duration="235000" />
+      <workItem from="1591111935007" duration="3274000" />
+      <workItem from="1591115594479" duration="1883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="403" width="1101" height="265" key="DiffContextDialog" timestamp="1581807006093">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="165" y="403" width="1101" height="265" key="DiffContextDialog/65.24.1301.744@65.24.1301.744" timestamp="1581807006093" />
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1582308244410">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1582308244410" />
+    <state width="1255" height="194" key="GridCell.Tab.0.bottom" timestamp="1581971600757">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="194" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1581971600757" />
+    <state width="1255" height="194" key="GridCell.Tab.0.center" timestamp="1581971600757">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="194" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1581971600757" />
+    <state width="1255" height="194" key="GridCell.Tab.0.left" timestamp="1581971600756">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="194" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1581971600756" />
+    <state width="1255" height="194" key="GridCell.Tab.0.right" timestamp="1581971600757">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="194" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1581971600757" />
+    <state x="209" y="24" key="SettingsEditor" timestamp="1581807332046">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1581807332046" />
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582479951920">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1582479951920" />
+    <state x="65" y="24" width="707" height="744" key="find.popup" timestamp="1581777096808">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="65" y="24" width="707" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1581777096808" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Number_training.coverage" NAME="Number_training Coverage Results" MODIFIED="1585311911851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$models_template.coverage" NAME="models_template Coverage Results" MODIFIED="1582991242910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Answer_testing.coverage" NAME="Answer_testing Coverage Results" MODIFIED="1589037235373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Command_training.coverage" NAME="Command_training Coverage Results" MODIFIED="1585312031158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Number_testing.coverage" NAME="Number_testing Coverage Results" MODIFIED="1589037893094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$model_audio_ANN.coverage" NAME="model_audio_ANN Coverage Results" MODIFIED="1581763305008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$model_audio_CNN.coverage" NAME="model_audio_CNN Coverage Results" MODIFIED="1581971017401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$source_preprocessing.coverage" NAME="source_preprocessing Coverage Results" MODIFIED="1584453448543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Command_testing.coverage" NAME="Command_testing Coverage Results" MODIFIED="1589636142936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$train_model_CNN_audio.coverage" NAME="train_model_CNN_audio Coverage Results" MODIFIED="1581970896694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$asr.coverage" NAME="asr Coverage Results" MODIFIED="1589289490324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$scenario1.coverage" NAME="scenario1 Coverage Results" MODIFIED="1589637918276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$our_template.coverage" NAME="our_template Coverage Results" MODIFIED="1584472315650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Audio_Classification_using_CNN_MLP_master$Answer_training.coverage" NAME="Answer_training Coverage Results" MODIFIED="1585311801586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
